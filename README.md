@@ -1,0 +1,2 @@
+# tstar-inp-satellite
+Here we provide some python code used for the analysis of satellite (CloudSat + CALIPSO) data to compute frequency of occurence (binned by cloud top temperature) of liquid-only, mixed-phase, liquid-top mixed-phase, and ice-only clouds over the Arctic and Southern Ocean. The resulting histograms are then used to compute T*, a metric that we describe in Carlsen and David (2022, Geophysical Research Letters). In addition, we provide the scripts to produce the figures within this paper.
